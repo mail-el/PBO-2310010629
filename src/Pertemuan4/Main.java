@@ -12,6 +12,8 @@ public class Main {
         
         System.out.println("\nData Manajaer");
         manajer.tampilkanInfo();
+        
+        Karyawan karyawan2 = new Karyawan ("Mail", 50000);
                 
                 
     }
